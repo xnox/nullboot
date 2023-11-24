@@ -1,3 +1,9 @@
+nullboot (0.4.1-0ubuntu2+ppa1) jammy; urgency=medium
+
+  * Upgrade to new snapd, secboot, shim.
+
+ -- Dimitri John Ledkov <dimitri.ledkov@canonical.com>  Fri, 24 Nov 2023 03:26:29 +0000
+
 nullboot (0.4.0-0ubuntu1) kinetic; urgency=medium
 
   * Feature:
